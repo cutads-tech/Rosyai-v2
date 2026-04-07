@@ -214,12 +214,6 @@ Voice Output / Action
 
 ---
 
-## 📜 License
-
-MIT License
-
----
-
 ## 👨‍💻 Author
 
 **Cutads-Tech** 
