@@ -71,7 +71,7 @@ RosyAI/
 ├── control/
 │   └── automation.py            # 🤖 Automation system
 ├── tts/
-│   └── emotional_tts.py         # Offline TTS fallback
+│   ├── emotional_tts.py         # Offline TTS fallback
 │   ├── sarvam_tts2.py           # Main TTS rendering
 │
 ├── auth/
