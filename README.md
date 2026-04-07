@@ -128,6 +128,8 @@ pip install -r requirements.txt
 - **Porcupine Access Key (Free tier)**  
   👉 **[Porcupine Access Key](https://console.picovoice.ai/)**
 
+  **If you want to use any other wake word then get wake words PPN file from above link and save rename it to Heyrosy.ppn**
+
 ---
 
 ### 🌐 Browser Automation
@@ -203,7 +205,8 @@ Voice Output / Action
 - Improve its own code
 - If you want to add another feature tell me
 ---
-
+# IMPORTANT
+**We did not use voice and face authentication in this code but filed are there, you can integrate these code files if you have clear camera in your PC**
 ## 🤝 Contributing
 
 1. Fork repo  
