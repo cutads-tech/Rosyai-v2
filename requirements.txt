@@ -1,0 +1,65 @@
+requests
+# Core
+numpy
+requests
+python-dotenv
+pydantic
+
+# AI / LLM
+openai
+httpx
+tiktoken
+openai-whisper
+# Voice (TTS + STT)
+pyttsx3
+SpeechRecognition
+pyaudio
+sounddevice
+scipy
+
+# Wake Word (Porcupine)
+pvporcupine
+
+# Audio Processing
+librosa
+wave
+
+# Computer Vision
+opencv-python
+opencv-contrib-python
+ultralytics
+Pillow
+
+# OCR (Tesseract wrapper)
+pytesseract
+
+# Automation / Browser Control
+selenium
+webdriver-manager
+playwright
+webbrowser
+
+# WhatsApp Automation (depends on your implementation)
+pywhatkit
+
+# File & System
+psutil
+pyautogui
+
+# Async / Performance
+asyncio
+aiohttp
+
+# Machine Learning / Embeddings
+scikit-learn
+faiss-cpu
+
+# Optional (better AI + utilities)
+transformers
+torch
+#If you have nvidia gpu download torch for cuda to use GPU
+# Windows-specific (optional but useful)
+pywin32
+
+# Logging / Debugging
+loguru
